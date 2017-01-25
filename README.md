@@ -1,3 +1,4 @@
-# hello-world
-General repository
-Getting familiar with Github
+# Sundiata1 
+
+General repository for anything Kushite related
+
